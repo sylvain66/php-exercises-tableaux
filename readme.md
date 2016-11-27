@@ -1,3 +1,26 @@
+
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo1.php
+
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo2.php
+
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo3.php
+
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo4.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #PHP - Les tableaux
 ##Exercice 1
 Créer un tableau **mois** et l'initialiser avec les valeurs suivantes :
