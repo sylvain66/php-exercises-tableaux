@@ -7,6 +7,10 @@ https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo3.php
 
 https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo4.php
 
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo5.php
+
+https://rawgit.com/sylvain66/php-exercises-tableaux/master/tableauexo6.php
+
 
 
 
